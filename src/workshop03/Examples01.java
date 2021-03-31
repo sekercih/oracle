@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.*;
 
 public class Examples01 {
+	
+
 	public static void main(String[] args) {
 		String[]arr= {"Hi","How","Are","You"};
 		List<String> arrList=new ArrayList<>(Arrays.asList(arr));
