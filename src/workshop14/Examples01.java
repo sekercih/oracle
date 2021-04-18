@@ -12,6 +12,8 @@ public class Examples01 {
 			System.out.println(str[idx]);
 			
 		}
+		
+		
 		}
 
 }
